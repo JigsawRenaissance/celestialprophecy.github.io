@@ -1,4 +1,4 @@
 celestialprophecy.github.io
 ===========================
 
-Celestial Prophecy GitBub page
+Celestial Prophecy GitHub page
